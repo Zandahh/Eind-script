@@ -31,6 +31,8 @@ if [ "$input" == "nee" ];
 then
 echo "Sluit de console";
 fi;
+asdkljf;afmnasv
+
 
 if [ "$input" == "ja" ];
 then
